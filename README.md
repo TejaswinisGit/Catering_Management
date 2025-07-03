@@ -1,4 +1,4 @@
-#  Catering Service Management System
+# 🍽️ Catering Service Management System
 
 A modern, full-featured full-stack web application for catering businesses, built with:
 - **Frontend:** React (catering/)
